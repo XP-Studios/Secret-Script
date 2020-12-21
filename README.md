@@ -4,8 +4,8 @@ Run this script on GNU/Linux
 <br>
 git clone https://github.com/XP-Studios/Secret-Script.git
 <br>
-cd secret-script
+cd Secret-Script
 <br>
-sudo chmod sh.sh 744
+sudo chmod 744 sh.sh 
 <br>
 ./sh.sh
